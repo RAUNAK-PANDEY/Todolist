@@ -6,5 +6,5 @@
 * Delete task
 
 # Multiple page creation (using EJS templating)
-* To create your own page  , add your preferred name to the end of the url (https://todolist-raunak.herokuapp.com/).
-* Example : Preferred name : college  ---> url : https://todolist-raunak.herokuapp.com/college .
+* To create your own page  , add your preferred name to the end of this url ( https://todolist-raunak.herokuapp.com/ ).
+* Example : Preferred name : college   --->    url : https://todolist-raunak.herokuapp.com/college .
